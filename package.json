@@ -2,7 +2,7 @@
   "name": "react-asynk-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Muzyka97/react-asynk-redux.git",
+  "homepage": "https://muzyka97.github.io/react-asynk-redux/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@reduxjs/toolkit": "^1.9.1",
